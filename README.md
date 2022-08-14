@@ -1,4 +1,4 @@
-# contry_app
+# country_app
 
 A new Flutter project.
 
